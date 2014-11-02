@@ -27,7 +27,7 @@ Basically, they are to create/delete/show windows users, launch software and inp
   
 **5. inputAdobeSerialNumber.au3**
 
-  This shows how to input the serial numbe when the serial number window pops up. Just replace the * asterisk with real number.
+  This shows how to input the serial number when the serial number window pops up. Just replace the * asterisk with real number in the script.
   
 **6. inputAdobeSigninInfo.au3**
   
